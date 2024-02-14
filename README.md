@@ -1,3 +1,3 @@
 ## lyricizer
 
-### Developer pays $57 for documentation.
+$57 for documentation access
